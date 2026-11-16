@@ -1,0 +1,4 @@
+# Direct dependencies only (Python 3.13). Install with:
+#   python -m pip install -r requirements.txt
+duckdb==2.0.0
+pandas==3.1.1
